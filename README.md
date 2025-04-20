@@ -26,8 +26,7 @@ Each project includes:
 
 ---
 
-🚀 This repo reflects applied AWS cloud architecture thinking — not just theory or certification prep. Perfect for showcasing hands-on experience to hiring managers or clients.
-s.
+🚀 This repo reflects applied AWS cloud architecture thinking
 
 ## Projects
 
