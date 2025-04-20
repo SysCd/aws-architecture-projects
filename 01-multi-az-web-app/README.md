@@ -1,4 +1,4 @@
-# 01 Devops Pipeline Project
+# 01 Multi Az Web App
 
 📌 **Goal:** [Describe the goal here]
 

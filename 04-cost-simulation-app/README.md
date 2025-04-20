@@ -1,4 +1,4 @@
-# 02 Multi Az Web App
+# 04 Cost Simulation App
 
 📌 **Goal:** [Describe the goal here]
 

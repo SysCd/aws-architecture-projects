@@ -1,4 +1,4 @@
-# 06 Monitoring System
+# 02 Serverless Image Processor
 
 📌 **Goal:** [Describe the goal here]
 

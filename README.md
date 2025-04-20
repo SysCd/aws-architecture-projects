@@ -1,12 +1,11 @@
 # AWS Architecture Projects
 
-A collection of 7 scenario-based AWS projects designed to build deep architectural understanding aligned with the AWS Solutions Architect – Associate (SAA-C03) domains.
+A collection of 6 scenario-based AWS projects designed to build deep architectural understanding aligned with the AWS Solutions Architect – Associate (SAA-C03) domains.
 
 ## Projects
-- [01-devops-pipeline-project](01-devops-pipeline-project/)
-- [02-multi-az-web-app](02-multi-az-web-app/)
-- [03-serverless-image-processor](03-serverless-image-processor/)
-- [04-secure-api-vpc-endpoints](04-secure-api-vpc-endpoints/)
-- [05-cost-simulation-app](05-cost-simulation-app/)
-- [06-monitoring-system](06-monitoring-system/)
-- [07-multi-region-failover](07-multi-region-failover/)
+- [01-multi-az-web-app](01-multi-az-web-app/)
+- [02-serverless-image-processor](02-serverless-image-processor/)
+- [03-secure-api-vpc-endpoints](03-secure-api-vpc-endpoints/)
+- [04-cost-simulation-app](04-cost-simulation-app/)
+- [05-monitoring-system](05-monitoring-system/)
+- [06-multi-region-failover](06-multi-region-failover/)

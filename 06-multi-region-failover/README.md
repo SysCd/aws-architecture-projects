@@ -1,4 +1,4 @@
-# 05 Cost Simulation App
+# 06 Multi Region Failover
 
 📌 **Goal:** [Describe the goal here]
 
